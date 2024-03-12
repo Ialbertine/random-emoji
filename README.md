@@ -1,0 +1,2 @@
+# random-emoji
+javascript task
